@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate at <a href='https://cv.snu.ac.kr'>Computer Vision Lab</a>, Seoul National University
+subtitle: AI Research Scientist at <a href='https://tynapse.com'>Tynapse</a>
 
 profile:
   align: right
@@ -34,11 +34,11 @@ latest_posts:
   enabled: false
 ---
 
-I am a Ph.D. candidate majoring computer vision with deep learning at [Computer Vision Lab](https://cv.snu.ac.kr) in Seoul National University, under professor [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/~kmlee/).
+I am an AI Research Scientist at [Tynapse](https://tynapse.com), where I work on the safety and security of AI agents. As LLM-based agents increasingly perceive images, retrieve external knowledge, and act on behalf of users, I study how to detect and mitigate the failure modes that make them unreliable, so that they can be trusted in real-world deployments.
 
-Early in my PhD studies, I was interested in low-level vision problems such as image restoration and frame interpolation. I have served as a co-organizer on two tracks (image deblurring and video super-resolution) at [NTIRE Workshop](https://data.vision.ee.ethz.ch/cvl/ntire21/) in CVPR 2021.
+My research interests include improving visual grounding in multimodal LLMs, so that their responses rely on the actual visual evidence rather than language priors, and detecting hallucinations in RAG agents, where generated claims are not supported by the retrieved context.
 
-Recently, I have been interested in 3D vision problems, and have been researching 3D scene reconstruction using 3D Gaussian splatting, and further, high-quality and large-scale scene generation problems. In particular, I am working on holistic scene reconstruction by utilizing wide FoV of omnidirectional images such as ODGS and OmniSplat.
+Previously, during my Ph.D. studies at [Computer Vision Lab](https://cv.snu.ac.kr) in Seoul National University under Professor [Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/~kmlee/), I worked on 3D vision. My research there focused on 3D scene reconstruction with 3D Gaussian splatting and on high-quality, large-scale 3D scene generation.
 
 <div style="clear:both"></div>
 
