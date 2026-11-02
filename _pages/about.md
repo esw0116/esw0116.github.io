@@ -9,13 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Seoul National University</p>
+    <p>Tynapse</p>
     <p>Seoul, South Korea</p>
-    <p><a href="mailto:esw0116@snu.ac.kr">esw0116@snu.ac.kr</a></p>
+    <p><a href="mailto:suyoung@tynapse.com">suyoung@tynapse.com</a></p>
     <p style="margin-top: 0.5rem;">
       <a href="/assets/pdf/cv.pdf" target="_blank" title="CV"><i class="fa-regular fa-file-pdf fa-lg"></i></a>
       &nbsp;
-      <a href="mailto:esw0116@snu.ac.kr" title="Email"><i class="fa-solid fa-envelope fa-lg"></i></a>
+      <a href="mailto:suyoung@tynapse.com" title="Email"><i class="fa-solid fa-envelope fa-lg"></i></a>
       &nbsp;
       <a href="https://github.com/esw0116" target="_blank" title="GitHub"><i class="fa-brands fa-github fa-lg"></i></a>
       &nbsp;
